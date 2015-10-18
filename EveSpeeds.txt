@@ -1,0 +1,101 @@
+baseSpeed = shipSpeed * (5% * navigationLevel)
+propSpeed = propBonus(baseSpeed * (5% * aControlLevel)) ?
+Claw 480
+Malediction 470
+Dramiel 460
+Crusader 455
+Stiletto 435
+Crow 430
+Slasher 430
+Ares 425
+Atron 420
+Raptor 420
+Taranis 420
+Burst 415
+Garmur 415
+Executioner 410
+Navitas 410
+Republic Fleet Firetail 410
+Vigil 410
+Inquisitor 405
+Condor 400
+Daredevil 385
+Cheetah 381
+Prospect 380
+Federation Navy Comet 375
+Hyena 375
+Maulus 375
+Bantam 370
+Rifter 365
+Breacher 360
+Caldari Navy Hookbill 360
+Probe 360
+Jaguar 357
+Punisher 355
+Cruicifer 350
+Imperial Navy Slicer 350
+Keres 350
+Magnate 350
+Heron 340
+Incursus 340
+Sentinel 340
+Succubus 340
+Tormentor 335
+Venture 335
+Cruor 330
+Helios 330
+Imicus 330
+Wolf 329
+Griffin 325
+Kestrel 325
+Tristan 325
+Worm 320
+Sabre 320
+Flycatcher 315
+Kitsune 315
+Astero 312
+Heretic 310
+Hound 310
+Merlin 310
+Buzzard 306
+Eris 305
+Purifier 300
+Svipul 290
+Enyo 288
+Ishkur 287
+Anathema 282
+Confessor 280
+Manticore 280
+Retribution 278
+Nemesis 275
+Hawk 273
+Vengeance 273
+Thrasher 270
+Catalyst 265
+Harpy 264
+Coercer 255 
+Talwar 255 
+Cormorant 250 
+Dragoon 240
+Algos 245 
+Corax 235 
+
+worm mwd 6.82377604167
+kite maulus mwd 6.51817820781
+
+maulus AB 2.34091632199
+
+tristan mwd 6.92376923077
+tristan mwd + inj 6.92376068376
+tristan mwd + 2 inj 6.92370790675
+
+tormentor mwd 6.45885572139
+tormentor 10mn AB 4.57482587065
+
+
+injectors
+nanofibers
+2 rigs
+
+armor rigs
+armor plates

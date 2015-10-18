@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rewt>
+	<stuff> STUFF 0
+		<test>STUFF 1</test>
+		<test2>STUFF 2</test2>
+	</stuff>
+	<otherthings>Other Things!</otherthings>
+</rewt>
